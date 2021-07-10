@@ -17,6 +17,7 @@ h1{
 h2{
     font-size: 40px;
     margin-bottom: 30px;
+    text-transform: uppercase;
 }
 .bd-bg{
     background-image: url(images/bangla-bg.jpg);
